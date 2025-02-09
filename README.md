@@ -36,6 +36,9 @@ Matplotlib & Seaborn: For creating various data visualizations to highlight tren
 Jupyter Notebook: Used to document and perform the entire analysis workflow.
 # Project Highlights
 Data Cleaning: Addressed missing values and inconsistencies in the dataset to ensure accurate analysis.
+
 Exploratory Data Analysis: Performed an in-depth analysis of the dataset to extract meaningful insights and trends.
+
 Visualization: Created clear and informative visualizations that demonstrate patterns in traffic accidents related to time, location, and weather.
+
 Recommendations: Provided actionable insights that could help in reducing traffic accidents and improving road safety.
