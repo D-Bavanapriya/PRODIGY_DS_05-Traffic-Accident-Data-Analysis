@@ -1,4 +1,4 @@
-# PRODIGY_DS_05-Traffic-Accident-Data-Analysis
+# Task-05
 # Traffic Accident Data Analysis
 This repository is focused on analyzing traffic accident data to uncover patterns, trends, and insights related to road traffic accidents. The project applies Exploratory Data Analysis (EDA) techniques to the dataset and uses data visualization to highlight key findings. The goal is to understand the factors contributing to traffic accidents and gain insights into how to mitigate them.
 
